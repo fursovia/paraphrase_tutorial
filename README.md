@@ -1,1 +1,1 @@
-# paraphrase_tutorial
+# RAAI Summer School Tutorial
